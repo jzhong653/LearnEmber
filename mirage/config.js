@@ -28,7 +28,7 @@ export default function() {
       }, {
         type: 'rentals',
         id: 'downtown-charm',
-        attributes{
+        attributes: {
           title: 'Downtown Charm',
           owner: 'Andrew Li',
           city: 'Seattle',
