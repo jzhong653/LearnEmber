@@ -1,7 +1,6 @@
 import { helper } from '@ember/component/helper';
 
 const communityPropertyTypes = [
-  'Kirby Houses',
   'Andrew Houses'
 ];
 
