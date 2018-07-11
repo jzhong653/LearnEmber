@@ -1,7 +1,10 @@
 import { helper } from '@ember/component/helper';
 
 const communityPropertyTypes = [
-  'Andrew Houses'
+  'Andrew Houses',
+  'Condo',
+  'Townhouse',
+  'Apartment'
 ];
 
 export function rentalPropertyType([propertyType]) {
