@@ -8,9 +8,9 @@ export default function() {
         id: 'grand-old-mansion',
         attributes: {
           title: 'Grand Old Mansion',
-          owner: 'Andrew Li',
+          owner: 'Jack Kirby',
           city: 'Andrew',
-          category: 'Andrew Houses',
+          category: 'Kirby Houses',
           bedrooms: 20,
           image: 'https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg',
         }
@@ -21,7 +21,7 @@ export default function() {
           title: 'Urban Living',
           owner: 'Andrew Li',
           city: 'San Francisco',
-          category: 'Andrwe Houses',
+          category: 'Andrew Houses',
           bedrooms: 1,
           image: 'https://upload.wikimedia.org/wikipedia/commons/0/0e/Alfonso_13_Highrise_Tegucigalpa.jpg',
         }
