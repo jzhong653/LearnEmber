@@ -6,12 +6,19 @@ import hbs from 'htmlbars-inline-precompile';
 module('Integration | Helper | rental-property-type', function(hooks) {
   setupRenderingTest(hooks);
 
-  // Replace this with your real tests.
-  test('it renders', async function(assert) {
-    this.set('inputValue', '1234');
+  test('it renders correctly for a Standalone', async function(assert){
+    this.set('inputValue', 'Kirby Houses');
 
     await render(hbs`{{rental-property-type inputValue}}`);
 
-    assert.equal(this.element.textContent.trim(), '1234');
+    assert.equal(this.element.textContent.trim(), 'Standalone');
+  });
+
+  test('it renders correctly for a Community rental', async function(assert){
+    this.set('inputValue', 'Andrew Houses');
+
+    await render(hbs`{{rental-property-type inputValue}}`);
+
+    assert.equal(this.element.textContent.trim(), 'Community');
   });
 });
