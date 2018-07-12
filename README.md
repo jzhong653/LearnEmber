@@ -56,5 +56,10 @@ Specify what it takes to deploy your app.
   
 ### Update
 I am going to archive this repo so if you want to use the code, I think copying and pasting it should still work. If you want to interact with the coding however, contact me and I'll try and get back to you as soon as possible.
-
-
+<br>
+<br>
+<br>
+<h2 align = "center"><b>Contact Information</b></h2>
+<p align = "center"><b>For more information, please contact me:
+<br>Joseph Zhong
+<br>Email: jszhong2003@gmail.com</b></p></p>
