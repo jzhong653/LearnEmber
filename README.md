@@ -1,7 +1,6 @@
-# super-rentals
+# LearnEmber
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This project was created for me to save my progress as I learned the basics and how to work with ember.js. This code is all open-sourced. Have fun messing around with it. My learning here with ember.js through this program is done, however you can go through the files and examine the coding for yourself and learn that way if you want to.
 
 ## Prerequisites
 
